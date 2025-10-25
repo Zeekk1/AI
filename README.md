@@ -1,6 +1,9 @@
 This project demonstrates three core tasks in data mining.
+
 1.Adult.py:  Classification using decision trees
+
 2.Wholesale_Customers:  Cluster analysis
+
 3.Coronovirus_Tweets:  Text mining
 
 Task 1 involves loading and inspecting datasets,applying one-hot encoding.
