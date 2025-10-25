@@ -1,6 +1,6 @@
 This project demonstrates three core tasks in data mining.
 
-1.Adult:  Classification using decision trees
+1.Adult.py:  Classification using decision trees
 
 2.Wholesale_Customers:  Cluster analysis
 
